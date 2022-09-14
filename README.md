@@ -5,10 +5,10 @@
 - Contact me by email: marcos@nouva.se 📫    
 - My LinkeIn: <a href = "https://www.linkedin.com/in/marcos-eduardo-121603236/"> LinkedIn 📫   
 
-<div align="center">
+<div>
   <a href="https://github.com/RyotaMarco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyotaMarco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaMarco&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaMarco&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
