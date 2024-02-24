@@ -1,8 +1,8 @@
-## Heyy! I'm Marcos Eduardo a self-taught Java and back-end student 
+## Hey! I’m Marcos Eduardo, a Data Science student and a Go enthusiast.
 
-- I'm currently looking to improve my knowledge of java and backend.☕  
-- I'm looking for my first opportunity as a dev.   
-- Contact me by email: marcos@nouva.se 📫    
+- I’m currently looking to improve my knowledge in Data, Machine Learning, Statistics, and Math. I’m also currently in love with Go lang.
+- I’m doing some freelance work and trying to land my first job as a Data Scientist.
+- You can contact me by email at marcos@nouva.se 📫  
 - My LinkeIn: <a href = "https://www.linkedin.com/in/marcos-eduardo-121603236/"> LinkedIn 📫   
 
 <div>
@@ -11,8 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaMarco&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- <div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+ <div style="display: inline_block"><br> 
+  <img align="center" alt="Marcos-python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
+    <img align="center" alt="Marcos-python" height="60" width="50" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" /> 
+    <img align="center" alt="Marcos-python" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" /> 
+   
 </div>
   
   ##
