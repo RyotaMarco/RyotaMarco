@@ -3,7 +3,8 @@
 - I’m currently looking to improve my knowledge in Data, Machine Learning, Statistics, and Math. I’m also currently in love with Go lang.
 - I’m doing some freelance work and trying to land my first job as a Data Scientist.
 - You can contact me by email at marcos@nouva.se 📫  
-- My LinkeIn: <a href = "https://www.linkedin.com/in/marcos-eduardo-121603236/"> LinkedIn 📫   
+- My LinkeIn: <a href = "https://www.linkedin.com/in/marcos-eduardo-121603236/"> LinkedIn 📫
+- My Portfolio: <a href = "https://ryotamarco.github.io/Portifolio-Website/">
 
 <div>
   <a href="https://github.com/RyotaMarco">
