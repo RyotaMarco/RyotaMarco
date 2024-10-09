@@ -4,7 +4,7 @@
 - I’m doing some freelance work and trying to land my first job as a Data Scientist.
 - You can contact me by email at marcos@nouva.se 📫  
 - My LinkeIn: <a href = "https://www.linkedin.com/in/marcos-eduardo-121603236/"> LinkedIn 📫
-- My Portfolio: <a href = "https://ryotamarco.github.io/Portifolio-Website/">
+- My Portfolio: <a href = "https://ryotamarco.github.io/Portifolio-Website"> Portfolio 
 
 <div>
   <a href="https://github.com/RyotaMarco">
