@@ -1,13 +1,15 @@
-## Hey! I’m Marcos Eduardo, a Data Science student and a Go enthusiast.
+## Hey! I’m Marcos Eduardo, a RPA Intern and Data Engineer intusiast and a Go enthusiast.
+Well... I'm Marco, 25 years old, and currently in my third year of a Computer Science bachelor's degree.
+While I'm working as an RPA Developer Intern right now, I'm actively transitioning my career toward Data Engineering.
 
 - I’m currently looking to improve my knowledge in Data, Machine Learning, Statistics, and Math. I’m also currently in love with Go lang.
-- I’m doing some freelance work and trying to land my first job as a Data Scientist.
+- I’m doing some freelance work and trying to land my first job as a Data Engineer.
 - You can contact me by email at marcos@nouva.se 📫  
-- My LinkeIn: <a href = "https://www.linkedin.com/in/marcos-eduardo-121603236/"> LinkedIn 📫
-- My Portfolio: <a href = "https://marcoryota.vercel.app/"> Portfolio 
+- My LinkeIn: <a href blank_ = "https://www.linkedin.com/in/marcos-eduardo-121603236/" target="_blank"> LinkedIn 📫
+- My Portfolio: <a href = "https://marcoryota.vercel.app/" target="_blank"> Portfolio 
 
 <div>
-  <a href="https://github.com/RyotaMarco">
+  <a href="https://github.com/RyotaMarco" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyotaMarco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaMarco&layout=compact&langs_count=7&theme=dark"/>
 </div>
