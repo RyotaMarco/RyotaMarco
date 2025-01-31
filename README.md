@@ -10,7 +10,7 @@ While I'm working as an RPA Developer Intern right now, I'm actively transitioni
 
 
 <div>
-  <a href="https://github.com/RyotaMarco" target="_blank">
+  <a href="https://github.com/RyotaMarco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyotaMarco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaMarco&layout=compact&langs_count=7&theme=dark"/>
 </div>
