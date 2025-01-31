@@ -1,4 +1,4 @@
-## Hey! I’m Marcos Eduardo, a RPA Intern and Data Engineer enthusiast and a Go enthusiast.
+## Hey! I’m Marcos Eduardo, a RPA Intern, Data Engineer enthusiast and a Go enthusiast.
 
 Well... I'm Marco, 25 years old, and currently in my third year of a Computer Science bachelor's degree. While I'm working as an RPA Developer Intern right now, I'm actively transitioning my career toward Data Engineering.
 
@@ -18,7 +18,7 @@ Well... I'm Marco, 25 years old, and currently in my third year of a Computer Sc
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Marcos-python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
-  <img align="center" alt="Marcos-go" height="60" width="50" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" />
+  <img align="center" alt="Marcos-go" height="60" width="100" src="https://i.imgur.com/HAFTV4D.png" />
   <img align="center" alt="Marcos-scikit" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 </div>
 
