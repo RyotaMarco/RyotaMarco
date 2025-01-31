@@ -5,12 +5,12 @@ While I'm working as an RPA Developer Intern right now, I'm actively transitioni
 - I’m currently looking to improve my knowledge in Data, Machine Learning, Statistics, and Math. I’m also currently in love with Go lang.
 - I’m doing some freelance work and trying to land my first job as a Data Engineer.
 - You can contact me by email at marcos@nouva.se 📫  
-- My LinkeIn: <a href blank_ = "https://www.linkedin.com/in/marcos-eduardo-121603236/" target="_blank"> LinkedIn 📫</a>
+- My LinkedIn: <a href="https://www.linkedin.com/in/marcos-eduardo-121603236/" target="_blank">LinkedIn 📫</a>
 - My Portfolio: <a href="https://marcoryota.vercel.app/" target="_blank">Portfolio</a>
 
 
 <div>
-  <a href="https://github.com/RyotaMarco" target="_blank">
+  <a href="https://github.com/RyotaMarco" target="_blank"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyotaMarco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaMarco&layout=compact&langs_count=7&theme=dark"/>
 </div>
