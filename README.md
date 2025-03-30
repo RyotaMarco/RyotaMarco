@@ -5,7 +5,7 @@ Well... I'm Marco, 25 years old, and currently in my third year of a Computer Sc
 - I’m currently looking to improve my knowledge in Data, Machine Learning, Statistics, and Math. I’m also currently in love with Go lang.
 - I’m doing some freelance work and trying to land my first job as a Data Engineer.
 - You can contact me by email at marcos@nouva.se 📫
-- My LinkedIn: <a href="https://www.linkedin.com/in/marcos-eduardo-121603236/" target="_blank">LinkedIn 📫</a>
+- My LinkedIn: <a href="https://www.linkedin.com/in/marcoryota/" target="_blank">LinkedIn 📫</a>
 - My Portfolio: <a href="https://marcoryota.vercel.app/" target="_blank">Portfolio</a>
 
 <div>
