@@ -6,7 +6,7 @@ Well... I'm Marco, 25 years old, and currently in my third year of a Computer Sc
 - I’m doing some freelance work and trying to land my first job as a Data Engineer.
 - You can contact me by email at marcos@nouva.se 📫
 - My LinkedIn: <a href="https://www.linkedin.com/in/marcoryota/" target="_blank">LinkedIn 📫</a>
-- My Portfolio: <a href="https://marcoryota.vercel.app/" target="_blank">Portfolio</a>
+- My Portfolio: <a href="https://marco-ryota.vercel.app/" target="_blank">Portfolio</a>
 
 <div>
   <a href="https://github.com/RyotaMarco" target="_blank">
