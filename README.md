@@ -1,8 +1,8 @@
 ## Hey, I'm Marcos Eduardo 👋
 
-AI Engineer in progress — building RAG systems, LLM pipelines, and data infrastructure.
+AI Engineer in progress and Data Engineer — building RAG systems, LLM pipelines, and data infrastructure.
 
-Currently a **Data Engineer intern at MadeiraMadeira** and a 3rd-year Computer Science student at PUCPR, Curitiba.
+Currently a **Data Engineer intern at MadeiraMadeira** and a 3rd-year Computer Science student at UNINTER, Curitiba.
 
 ---
 
