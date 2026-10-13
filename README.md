@@ -1,41 +1,45 @@
 ## Hey, I'm Marcos Eduardo 👋
 
-AI Engineer in progress and Data Engineer — building RAG systems, LLM pipelines, and data infrastructure.
+**Data Platform Engineer · Computer Science student · Rust learner**
 
-Currently a **Data Engineer intern at MadeiraMadeira** and a 3rd-year Computer Science student at UNINTER, Curitiba.
+I'm based in Curitiba, Brazil, and work as a **Junior Data Platform Engineer at MadeiraMadeira**. My background is in automation, data engineering, and cloud infrastructure.
+
+I'm especially interested in **systems programming, networking, and media streaming**. I enjoy understanding how software works beneath its abstractions, solving infrastructure problems, and building tools that make technical work easier.
+
+### What I'm studying
+
+- **Rust**, through [JetBrains Academy](https://academy.jetbrains.com/course/16631): ownership, borrowing, types, and error handling.
+- Building a foundation in **memory management, concurrency, operating systems, and network protocols**.
+- My longer-term direction is **systems and networking software with Rust and C++**. Embedded systems are another area I'd like to explore.
+
+### What I work on
+
+- Data pipelines and cloud infrastructure across **GCP and AWS**.
+- Workflow orchestration, incident notifications, and operational automation.
+- Applied AI tools, including LLM-assisted code review and documentation retrieval.
+
+I like projects where reliability, performance, and understanding the underlying system matter.
+
+### Selected projects
+
+- **[GCP AI Copilot](https://github.com/RyotaMarco/gcp-rag)** — A RAG application over GCP documentation using Python, FastAPI, LangChain, Qdrant, and Groq/Llama, packaged with Docker Compose.
+- **[TwitchPipeline](https://github.com/RyotaMarco/TwitchPipeline)** — An AWS data pipeline for analyzing Twitch stream metadata, combining PySpark, orchestration, and contextual analysis with Gemini.
+
+### Technologies
+
+**Data & cloud**  
+`Python` `SQL` `Airflow / Cloud Composer` `Dataform` `BigQuery` `Dataflow` `GCP` `AWS` `Docker`
+
+**APIs & applied AI**  
+`FastAPI` `LangChain` `Gemini` `Qdrant`
+
+**Current learning focus**  
+`Rust` `Systems programming` `Networking`
+
+### Beyond code
+
+Gaming, music, and anime are part of my life. My interest in media and streaming also shapes the kinds of technical projects I want to build.
 
 ---
 
-### What I'm building
-
-- **[gcp-rag](https://github.com/RyotaMarco/gcp-rag)** — RAG over GCP documentation with Qdrant, LangChain, Groq/Llama, and a React frontend. Dockerized, end-to-end. MCP server for real-time GCP resource interaction in progress.
-
----
-
-### Stack
-
-**AI / Data**
-`Python` `LangChain` `Qdrant` `sentence-transformers` `Groq` `FastAPI`
-
-**Data Engineering**
-`Apache Airflow` `Apache Spark` `Docker` `AWS` `GCP` `LocalStack`
-
-**Currently learning**
-`Go` — planning to build something at the intersection of Go and AI Engineering
-
----
-
-### What I'm focused on
-
-- Finishing the MCP server layer for the RAG project (Cloud Storage, BigQuery, Compute Engine)
-- Deepening ML fundamentals (fast.ai, CS229)
-- Moving toward an AI Engineer role in Europe
-
----
-
-📫 [marcos@nouva.se](mailto:marcos@nouva.se) · [LinkedIn](https://www.linkedin.com/in/marcoryota/) · [Portfolio](https://marco-ryota.vercel.app/)
-
-<a href="https://github.com/RyotaMarco">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyotaMarco&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaMarco&layout=compact&langs_count=7&theme=dark" />
-</a>
+📫 [Email](mailto:marcos@nouva.se) · [LinkedIn](https://www.linkedin.com/in/marcoryota/) · [Portfolio](https://marco-ryota.vercel.app/)
