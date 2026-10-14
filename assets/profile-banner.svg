@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+<title id="title">Marco Ryota — curious about what happens under the hood</title>
+<desc id="desc">A graphite terminal with lavender, copper and cyan accents. Systems, networking and streaming.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#12151e"/><stop offset="1" stop-color="#1c2030"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a5b4fc" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x="1" y="1" width="998" height="278" rx="18" fill="url(#bg)" stroke="#363c51"/>
+<rect x="2" y="2" width="996" height="276" rx="17" fill="url(#grid)"/>
+<path d="M1 48H999" stroke="#363c51"/>
+<circle cx="27" cy="25" r="5" fill="#e69b93"/><circle cx="46" cy="25" r="5" fill="#e9c28c"/><circle cx="65" cy="25" r="5" fill="#90c6b0"/>
+<text x="94" y="30" font-family="DejaVu Sans Mono, monospace" font-size="13" fill="#aab2c9">marco@ryota: ~/about</text>
+<text x="40" y="88" font-family="DejaVu Sans Mono, monospace" font-size="14" fill="#80cbc4">$ whoami</text>
+<text x="38" y="144" font-family="DejaVu Sans, sans-serif" font-size="47" font-weight="bold" letter-spacing="1" fill="#f0f1f7">MARCO<tspan fill="#b5a5ed"> / RYOTA</tspan></text>
+<text x="40" y="183" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#c4cadd">Curious about what happens under the hood.</text>
+<text x="40" y="235" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#dfaa88">systems<tspan fill="#667087"> / </tspan><tspan fill="#80cbc4">networking</tspan><tspan fill="#667087"> / </tspan><tspan fill="#b5a5ed">streaming</tspan></text>
+<g transform="translate(780 86)" fill="none" stroke-width="2">
+<rect width="170" height="153" rx="12" stroke="#454c65" fill="#151924" fill-opacity=".8"/>
+<path d="M18 113H152M18 41H152" stroke="#363e52"/>
+<path d="M20 77H34L42 64L52 96L64 51L76 105L89 64L101 86L114 71H150" stroke="#80cbc4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="28" cy="23" r="3" fill="#b5a5ed" stroke="none"/>
+<text x="40" y="27" stroke="none" fill="#aab2c9" font-family="DejaVu Sans Mono, monospace" font-size="10">signal / active</text>
+<text x="20" y="137" stroke="none" fill="#dfaa88" font-family="DejaVu Sans Mono, monospace" font-size="11">learn. build. repeat.</text>
+</g>
+</svg>
