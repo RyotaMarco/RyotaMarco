@@ -1,45 +1,80 @@
-## Hey, I'm Marcos Eduardo 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Marco / Ryota — systems, networking and streaming" width="100%" />
+</p>
 
-**Data Platform Engineer · Computer Science student · Rust learner**
+<p align="center">
+  <strong>Data Platform Engineer by day. Curious about systems, always.</strong><br />
+  Curitiba, Brazil · Computer Science @ UNINTER
+</p>
 
-I'm based in Curitiba, Brazil, and work as a **Junior Data Platform Engineer at MadeiraMadeira**. My background is in automation, data engineering, and cloud infrastructure.
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcoryota/"><img src="https://img.shields.io/badge/LinkedIn-252938?style=flat-square&amp;logo=linkedin&amp;logoColor=B5A5ED" alt="LinkedIn" /></a>
+  <a href="https://marco-ryota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252938?style=flat-square&amp;logo=vercel&amp;logoColor=80CBC4" alt="Portfolio" /></a>
+  <a href="mailto:marcos@nouva.se"><img src="https://img.shields.io/badge/Email-252938?style=flat-square&amp;logo=maildotru&amp;logoColor=DFAA88" alt="Email" /></a>
+</p>
 
-I'm especially interested in **systems programming, networking, and media streaming**. I enjoy understanding how software works beneath its abstractions, solving infrastructure problems, and building tools that make technical work easier.
+### `~/about`
 
-### What I'm studying
+Hey, I'm **Marcos Eduardo**, also known as **Marco / Ryota** 👋
 
-- **Rust**, through [JetBrains Academy](https://academy.jetbrains.com/course/16631): ownership, borrowing, types, and error handling.
-- Building a foundation in **memory management, concurrency, operating systems, and network protocols**.
-- My longer-term direction is **systems and networking software with Rust and C++**. Embedded systems are another area I'd like to explore.
+I work as a **Junior Data Platform Engineer at MadeiraMadeira**, building data infrastructure, cloud automation, and tools for technical teams. My experience also includes applied AI, from documentation retrieval to LLM-assisted code review.
 
-### What I work on
+What keeps me curious is what happens underneath: **how memory is managed, how systems communicate, and how audio and video move across a network**. I enjoy digging into technical problems and building things I would use myself.
 
-- Data pipelines and cloud infrastructure across **GCP and AWS**.
-- Workflow orchestration, incident notifications, and operational automation.
-- Applied AI tools, including LLM-assisted code review and documentation retrieval.
+### `~/learning`
 
-I like projects where reliability, performance, and understanding the underlying system matter.
+🦀 **Rust is my current focus** — studying through [JetBrains Academy](https://academy.jetbrains.com/course/16631), with ownership, borrowing, types, and error handling at the core.
 
-### Selected projects
+My study direction:
 
-- **[GCP AI Copilot](https://github.com/RyotaMarco/gcp-rag)** — A RAG application over GCP documentation using Python, FastAPI, LangChain, Qdrant, and Groq/Llama, packaged with Docker Compose.
-- **[TwitchPipeline](https://github.com/RyotaMarco/TwitchPipeline)** — An AWS data pipeline for analyzing Twitch stream metadata, combining PySpark, orchestration, and contextual analysis with Gemini.
+- **Foundations:** memory management, concurrency, and operating systems.
+- **Networking & streaming:** protocols and the systems behind connected applications.
+- **Long term:** systems software with **Rust and C++**, with an interest in embedded systems too.
 
-### Technologies
+### `~/projects`
 
-**Data & cloud**  
-`Python` `SQL` `Airflow / Cloud Composer` `Dataform` `BigQuery` `Dataflow` `GCP` `AWS` `Docker`
+| Project | What I explored |
+| :--- | :--- |
+| 🧠 **[GCP AI Copilot](https://github.com/RyotaMarco/gcp-rag)** | Documentation retrieval with FastAPI, LangChain, Qdrant, and Groq/Llama. Packaged with Docker Compose. |
+| 📡 **[TwitchPipeline](https://github.com/RyotaMarco/TwitchPipeline)** | Twitch stream metadata, PySpark, AWS orchestration, and contextual analysis with Gemini. |
 
-**APIs & applied AI**  
-`FastAPI` `LangChain` `Gemini` `Qdrant`
+### `~/toolbox`
 
-**Current learning focus**  
-`Rust` `Systems programming` `Networking`
+<p>
+  <img src="https://img.shields.io/badge/Python-252938?style=flat-square&amp;logo=python&amp;logoColor=E9C28C" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-252938?style=flat-square&amp;logo=postgresql&amp;logoColor=80CBC4" alt="SQL" />
+  <img src="https://img.shields.io/badge/Google_Cloud-252938?style=flat-square&amp;logo=googlecloud&amp;logoColor=80CBC4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-252938?style=flat-square&amp;logoColor=DFAA88" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-252938?style=flat-square&amp;logo=docker&amp;logoColor=80CBC4" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-252938?style=flat-square&amp;logo=fastapi&amp;logoColor=90C6B0" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Learning_Rust-252938?style=flat-square&amp;logo=rust&amp;logoColor=DFAA88" alt="Learning Rust" />
+</p>
 
-### Beyond code
+<details>
+<summary><strong>Expand the stack</strong></summary>
 
-Gaming, music, and anime are part of my life. My interest in media and streaming also shapes the kinds of technical projects I want to build.
+- **Data & orchestration:** SQL, Airflow / Cloud Composer, Dataform, BigQuery, and Dataflow.
+- **Cloud & automation:** Python, GCP, AWS, and Docker.
+- **APIs & applied AI:** FastAPI, LangChain, Gemini, and Qdrant.
+- **Currently learning:** Rust and the foundations of systems programming.
+
+</details>
+
+### `~/off-the-clock`
+
+🎮 **Games** · 🎧 **Music** · 🌙 **Anime** · 🐧 **Linux tinkering**
+
+<details>
+<summary><strong>A little more Ryota</strong></summary>
+
+You'll also find me playing **Final Fantasy XIV** or watching **Monogatari**.
+
+My interest in music, games, and streaming feeds back into code: I'm drawn to the software behind the experiences I enjoy, from media systems to tools and automation.
+
+</details>
 
 ---
 
-📫 [Email](mailto:marcos@nouva.se) · [LinkedIn](https://www.linkedin.com/in/marcoryota/) · [Portfolio](https://marco-ryota.vercel.app/)
+<p align="center">
+  <sub>Learning how it works. Building something with it.</sub>
+</p>
