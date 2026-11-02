@@ -13,7 +13,7 @@
   <a href="mailto:marcos@nouva.se"><img src="https://img.shields.io/badge/Email-111216?style=flat-square&amp;logo=maildotru&amp;logoColor=F3F0EB" alt="Email" /></a>
 </p>
 
-### 01 / About
+### About
 
 Hey, I'm **Marcos Eduardo**, also known as **Marco / Ryota**.
 
@@ -21,7 +21,7 @@ I build **data infrastructure, cloud automation, and tools for technical teams**
 
 I'm curious about what happens underneath: **how memory is managed, how applications communicate, and how audio and video move across networks**. I enjoy building things I would use myself and keeping notes on what I learn.
 
-### 02 / Under the surface
+### Under the surface
 
 | Focus | Where I am |
 | :--- | :--- |
@@ -30,7 +30,7 @@ I'm curious about what happens underneath: **how memory is managed, how applicat
 | **Applied AI** | Exploring hybrid retrieval, embeddings, source-grounded answers, MCP, and LLM-assisted tooling. |
 | **Longer-term direction** | Networking, audio/video streaming, and systems software with Rust and C++; embedded systems are an interest too. |
 
-### 03 / Built to understand. Made to work.
+### Built to understand. Made to work.
 
 | Project | What it explores | Current form |
 | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ I'm curious about what happens underneath: **how memory is managed, how applicat
 
 More context lives in the [project write-ups](https://marco-ryota.com/projects) and [engineering notes](https://marco-ryota.com/reports).
 
-### 04 / Toolbox
+### Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-111216?style=flat-square&amp;logo=python&amp;logoColor=F3F0EB" alt="Python" />
@@ -64,7 +64,7 @@ More context lives in the [project write-ups](https://marco-ryota.com/projects) 
 
 </details>
 
-### 05 / After hours
+### After hours
 
 **Linux · Music · FFXIV · Anime**
 
