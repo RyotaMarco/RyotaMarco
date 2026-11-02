@@ -1,80 +1,85 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Marco / Ryota — systems, networking and streaming" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Marco / Ryota — Curious about what's underneath. Data platforms, Rust and systems, applied AI." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Data Platform Engineer by day. Curious about systems, always.</strong><br />
+  <strong>Junior Data Platform Engineer @ MadeiraMadeira</strong><br />
   Curitiba, Brazil · Computer Science @ UNINTER
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcoryota/"><img src="https://img.shields.io/badge/LinkedIn-252938?style=flat-square&amp;logo=linkedin&amp;logoColor=B5A5ED" alt="LinkedIn" /></a>
-  <a href="https://marco-ryota.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252938?style=flat-square&amp;logo=vercel&amp;logoColor=80CBC4" alt="Portfolio" /></a>
-  <a href="mailto:marcos@nouva.se"><img src="https://img.shields.io/badge/Email-252938?style=flat-square&amp;logo=maildotru&amp;logoColor=DFAA88" alt="Email" /></a>
+  <a href="https://marco-ryota.com"><img src="https://img.shields.io/badge/Portfolio-EF3340?style=flat-square&amp;logoColor=08090B" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/marcoryota/"><img src="https://img.shields.io/badge/LinkedIn-111216?style=flat-square&amp;logo=linkedin&amp;logoColor=F3F0EB" alt="LinkedIn" /></a>
+  <a href="mailto:marcos@nouva.se"><img src="https://img.shields.io/badge/Email-111216?style=flat-square&amp;logo=maildotru&amp;logoColor=F3F0EB" alt="Email" /></a>
 </p>
 
-### `~/about`
+### 01 / About
 
-Hey, I'm **Marcos Eduardo**, also known as **Marco / Ryota** 👋
+Hey, I'm **Marcos Eduardo**, also known as **Marco / Ryota**.
 
-I work as a **Junior Data Platform Engineer at MadeiraMadeira**, building data infrastructure, cloud automation, and tools for technical teams. My experience also includes applied AI, from documentation retrieval to LLM-assisted code review.
+I build **data infrastructure, cloud automation, and tools for technical teams** at MadeiraMadeira. My day-to-day includes Python, SQL, and Google Cloud; my projects also explore AWS and applied AI.
 
-What keeps me curious is what happens underneath: **how memory is managed, how systems communicate, and how audio and video move across a network**. I enjoy digging into technical problems and building things I would use myself.
+I'm curious about what happens underneath: **how memory is managed, how applications communicate, and how audio and video move across networks**. I enjoy building things I would use myself and keeping notes on what I learn.
 
-### `~/learning`
+### 02 / Under the surface
 
-🦀 **Rust is my current focus** — studying through [JetBrains Academy](https://academy.jetbrains.com/course/16631), with ownership, borrowing, types, and error handling at the core.
-
-My study direction:
-
-- **Foundations:** memory management, concurrency, and operating systems.
-- **Networking & streaming:** protocols and the systems behind connected applications.
-- **Long term:** systems software with **Rust and C++**, with an interest in embedded systems too.
-
-### `~/projects`
-
-| Project | What I explored |
+| Focus | Where I am |
 | :--- | :--- |
-| 🧠 **[GCP AI Copilot](https://github.com/RyotaMarco/gcp-rag)** | Documentation retrieval with FastAPI, LangChain, Qdrant, and Groq/Llama. Packaged with Docker Compose. |
-| 📡 **[TwitchPipeline](https://github.com/RyotaMarco/TwitchPipeline)** | Twitch stream metadata, PySpark, AWS orchestration, and contextual analysis with Gemini. |
+| **Data platforms & cloud** | My day-to-day at MadeiraMadeira: pipelines, orchestration, infrastructure, and automation. |
+| **Rust & systems** | Currently learning ownership, borrowing, types, and error handling through [JetBrains Academy](https://academy.jetbrains.com/course/16631), alongside memory management, concurrency, and operating-system fundamentals. |
+| **Applied AI** | Exploring hybrid retrieval, embeddings, source-grounded answers, MCP, and LLM-assisted tooling. |
+| **Longer-term direction** | Networking, audio/video streaming, and systems software with Rust and C++; embedded systems are an interest too. |
 
-### `~/toolbox`
+### 03 / Built to understand. Made to work.
+
+| Project | What it explores | Current form |
+| :--- | :--- | :--- |
+| **[GCP AI Copilot](https://github.com/RyotaMarco/gcp-rag)** | Bilingual documentation assistant with hybrid retrieval, source references, and read-only MCP tools over fictional cloud resources. | Local Docker application + [public Cloudflare demo](https://gcp.marco-ryota.com). The demo covers a limited documentation corpus and has usage limits. |
+| **[Portfolio](https://marco-ryota.com/projects/portfolio)** | Project write-ups and engineering notes, built with React, Vite, Bun, and Markdown. | Published at [marco-ryota.com](https://marco-ryota.com), with static hosting on Cloudflare. |
+| **[TwitchPipeline](https://github.com/RyotaMarco/TwitchPipeline)** | Twitch metadata, PySpark transformations, AWS orchestration, and contextual analysis with Gemini. | Portfolio project with implementation and architecture notes. |
+| **[Discord Music Bot](https://github.com/RyotaMarco/DiscordBot)** | Music playback, queues, playlists, and audio effects with Python, the Discord API, and FFmpeg. | Earlier personal project connecting code and music. |
+
+More context lives in the [project write-ups](https://marco-ryota.com/projects) and [engineering notes](https://marco-ryota.com/reports).
+
+### 04 / Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/Python-252938?style=flat-square&amp;logo=python&amp;logoColor=E9C28C" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-252938?style=flat-square&amp;logo=postgresql&amp;logoColor=80CBC4" alt="SQL" />
-  <img src="https://img.shields.io/badge/Google_Cloud-252938?style=flat-square&amp;logo=googlecloud&amp;logoColor=80CBC4" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/AWS-252938?style=flat-square&amp;logoColor=DFAA88" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-252938?style=flat-square&amp;logo=docker&amp;logoColor=80CBC4" alt="Docker" />
-  <img src="https://img.shields.io/badge/FastAPI-252938?style=flat-square&amp;logo=fastapi&amp;logoColor=90C6B0" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Learning_Rust-252938?style=flat-square&amp;logo=rust&amp;logoColor=DFAA88" alt="Learning Rust" />
+  <img src="https://img.shields.io/badge/Python-111216?style=flat-square&amp;logo=python&amp;logoColor=F3F0EB" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-111216?style=flat-square&amp;logo=postgresql&amp;logoColor=F3F0EB" alt="SQL" />
+  <img src="https://img.shields.io/badge/Google_Cloud-111216?style=flat-square&amp;logo=googlecloud&amp;logoColor=F3F0EB" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-111216?style=flat-square&amp;logoColor=F3F0EB" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-111216?style=flat-square&amp;logo=docker&amp;logoColor=F3F0EB" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-111216?style=flat-square&amp;logo=fastapi&amp;logoColor=F3F0EB" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Learning_Rust-EF3340?style=flat-square&amp;logo=rust&amp;logoColor=08090B" alt="Currently learning Rust" />
 </p>
 
 <details>
-<summary><strong>Expand the stack</strong></summary>
+<summary><strong>A little more of the stack</strong></summary>
 
-- **Data & orchestration:** SQL, Airflow / Cloud Composer, Dataform, BigQuery, and Dataflow.
-- **Cloud & automation:** Python, GCP, AWS, and Docker.
-- **APIs & applied AI:** FastAPI, LangChain, Gemini, and Qdrant.
+- **Data & orchestration:** SQL, BigQuery, Airflow / Cloud Composer, Dataform, Dataflow, and PySpark.
+- **Cloud & automation:** Python, Google Cloud, AWS, and Docker.
+- **APIs & applied AI:** FastAPI, Qdrant, hybrid retrieval, embeddings, Gemini, Groq, and MCP.
+- **Portfolio:** React, Vite, Bun, Markdown, and Cloudflare.
 - **Currently learning:** Rust and the foundations of systems programming.
 
 </details>
 
-### `~/off-the-clock`
+### 05 / After hours
 
-🎮 **Games** · 🎧 **Music** · 🌙 **Anime** · 🐧 **Linux tinkering**
+**Linux · Music · FFXIV · Anime**
 
 <details>
 <summary><strong>A little more Ryota</strong></summary>
 
-You'll also find me playing **Final Fantasy XIV** or watching **Monogatari**.
+You'll also find me playing **Final Fantasy XIV**, watching **Monogatari**, listening to music, or tinkering with Linux.
 
-My interest in music, games, and streaming feeds back into code: I'm drawn to the software behind the experiences I enjoy, from media systems to tools and automation.
+Games, music, and streaming keep pulling me toward the software behind connected and interactive experiences.
 
 </details>
 
 ---
 
 <p align="center">
-  <sub>Learning how it works. Building something with it.</sub>
+  <sub>Curious about what's underneath. Learning by building.</sub><br />
+  <a href="https://marco-ryota.com">Portfolio</a> · <a href="https://marco-ryota.com/reports">Notes</a> · <a href="https://www.linkedin.com/in/marcoryota/">Let's connect</a>
 </p>
