@@ -35,7 +35,7 @@ I'm curious about what happens underneath: **how memory is managed, how applicat
 | Project | What it explores | Current form |
 | :--- | :--- | :--- |
 | **[GCP AI Copilot](https://github.com/RyotaMarco/gcp-rag)** | Bilingual documentation assistant with hybrid retrieval, source references, and read-only MCP tools over fictional cloud resources. | Local Docker application + [public Cloudflare demo](https://gcp.marco-ryota.com). The demo covers a limited documentation corpus and has usage limits. |
-| **[Portfolio](https://marco-ryota.com/projects/portfolio)** | Project write-ups and engineering notes, built with React, Vite, Bun, and Markdown. | Published at [marco-ryota.com](https://marco-ryota.com), with static hosting on Cloudflare. |
+| **Portfolio** | Project write-ups and engineering notes, built with React, Vite, Bun, and Markdown. | Published on Cloudflare; source repository is private. |
 | **[TwitchPipeline](https://github.com/RyotaMarco/TwitchPipeline)** | Twitch metadata, PySpark transformations, AWS orchestration, and contextual analysis with Gemini. | Portfolio project with implementation and architecture notes. |
 | **[Discord Music Bot](https://github.com/RyotaMarco/DiscordBot)** | Music playback, queues, playlists, and audio effects with Python, the Discord API, and FFmpeg. | Earlier personal project connecting code and music. |
 
@@ -71,7 +71,7 @@ More context lives in the [project write-ups](https://marco-ryota.com/projects) 
 <details>
 <summary><strong>A little more Ryota</strong></summary>
 
-You'll also find me playing **Final Fantasy XIV**, watching **Monogatari**, listening to music, or tinkering with Linux.
+You'll also find me playing **Final Fantasy XIV**, watching **anime**, listening to music, or tinkering with Linux.
 
 Games, music, and streaming keep pulling me toward the software behind connected and interactive experiences.
 
